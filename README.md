@@ -1,4 +1,4 @@
-👋 Oi, eu sou @Jonatas-Rochagit \n
+👋 Oi, eu sou @Jonatas-Rochagit <br>
 👀 Estou interessado em aprender sobre o mundo do TI
 📚​ Estou cursando Analise e Desenvolvimento de Sistemas
 🌱 Fora da faculdade estou aprendendo: desenvolvimento front-end e python 
